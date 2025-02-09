@@ -11,7 +11,7 @@
 - **Input validation**: Avoid invalid input and handle errors elegantly.
 - **Keyboard support**: You can use both the mouse and the keyboard to interact with the calculator.
 
-## 📸 Captura de pantalla
+## 📸 Screenshot
 
 ![Calculator screenshot](assets/screenshot.png)
 
